@@ -11,4 +11,4 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 
 
 ### Sample-Image
-![Homepage]()
+![Homepage](ss.png)
